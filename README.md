@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=39FF14&center=true&vCenter=true&width=620&lines=Fixing+computers+and+automating+the+boring+parts;From+Brazil+%E2%86%92+Metro+Vancouver;Building+with+Python%2C+n8n+%26+Claude+Code;Learning+C%2C+one+segfault+at+a+time" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=39FF14&center=true&vCenter=true&width=620&lines=IT+Support+%C2%B7+AI+Automation+%C2%B7+CIS+Grad;From+the+service+counter+to+the+server+room;Automating+small+businesses+with+AI;Have+you+tried+turning+it+off+and+on+again%3F" alt="typing"/>
 </p>
 
 <p align="center">
@@ -109,12 +109,32 @@ $ cat now.txt
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jmcoelhoaraujo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/jmcoelhoara">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jmcoelhoaraujo/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/jmcoelhoara">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jmcoelhoaraujo/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/jmcoelhoara">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" />
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3D1A,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
