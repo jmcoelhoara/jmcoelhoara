@@ -116,6 +116,5 @@ $ cat now.txt
   </a>
 </p>
 
-<p align="center"><sub>Built in Vancouver · powered by açaí 🇧🇷</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3D1A,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
