@@ -117,24 +117,5 @@ $ cat now.txt
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jmcoelhoaraujo/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/jmcoelhoara">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jmcoelhoaraujo/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/jmcoelhoara">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" />
-  </a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3D1A,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
