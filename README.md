@@ -88,14 +88,6 @@ $ cat now.txt
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jmcoelhoara&bg_color=0D1117&color=C9D1D9&line=39FF14&point=FFFFFF&area=true&area_color=39FF14&title_color=39FF14&hide_border=true&custom_title=Contribution%20activity" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jmcoelhoara&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=-1" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmcoelhoara/jmcoelhoara/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmcoelhoara/jmcoelhoara/output/github-snake.svg" />
