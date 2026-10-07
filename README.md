@@ -20,7 +20,7 @@ I'm João, a Brazilian living in Metro Vancouver. I finished my **Computer Infor
 
 I've spent the last few years on the other side of the counter: serving customers at an açaí shop, running AV at events, tuning skis at Cypress Mountain. Most of my ideas come from watching small businesses juggle things that software should be handling for them.
 
-```bash
+```text
 $ cat now.txt
 → IT support: networking, Windows Server / Active Directory, Linux CLI
 → Automating workflows with n8n and Claude Code
@@ -108,11 +108,8 @@ $ cat now.txt
 ### `~/contact`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN">
+  <a href="https://www.linkedin.com/in/jmcoelhoaraujo/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
-  </a>
-  <a href="https://www.instagram.com/SEU-USUARIO-INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=39FF14" />
   </a>
   <a href="https://github.com/jmcoelhoara">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" />
